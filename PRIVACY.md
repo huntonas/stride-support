@@ -2,15 +2,15 @@
 
 **Effective date:** August 11, 2026
 
-Stride ("the App") is a running recovery app for people returning to running after knee surgery or injury. This policy explains what data the App collects, how it's used, and your choices.
+Stride ("the App") is a running recovery app for people returning to running after an injury or surgery. This policy explains what data the App collects, how it's used, and your choices.
 
 ## Local-First by Design
 
-Stride stores your data — interval programs, workout history, and daily knee journal entries (pain scores, symptoms, notes) — directly on your device. We do not operate an account system, and we do not have a server database of your personal health information.
+Stride stores your data — interval programs, workout history, and daily symptom journal entries (pain scores, symptoms, notes) — directly on your device. We do not operate an account system, and we do not have a server database of your personal health information.
 
 ## What We Send to Our Servers
 
-Once a week (or when you request it), Stride sends a summary of your recent training load and knee journal data to our backend so it can generate an AI-powered recommendation (Progress / Repeat / Pull Back). This request:
+Once a week (or when you request it), Stride sends a summary of your recent training load and symptom journal data to our backend so it can generate an AI-powered recommendation (Progress / Repeat / Pull Back). This request:
 
 - Does not include your name, email address, or any account identifier — there is no account to identify you by.
 - Is forwarded to Anthropic's Claude API solely to generate your recommendation, and is not used to train AI models.
